@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\manue\\IS262E09Ejercicio05\\src\\WebAppIS262E09\\WebAppIS262E09.csproj",
+      "projectUniqueName": "C:\\Users\\manue\\unitec-is-262e09\\IS262E09Ejercicio05\\src\\WebAppIS262E09\\WebAppIS262E09.csproj",
       "projectName": "WebAppIS262E09",
-      "projectPath": "C:\\Users\\manue\\IS262E09Ejercicio05\\src\\WebAppIS262E09\\WebAppIS262E09.csproj",
+      "projectPath": "C:\\Users\\manue\\unitec-is-262e09\\IS262E09Ejercicio05\\src\\WebAppIS262E09\\WebAppIS262E09.csproj",
       "packagesPath": "C:\\Users\\manue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\manue\\IS262E09Ejercicio05\\src\\WebAppIS262E09\\obj\\",
+      "outputPath": "C:\\Users\\manue\\unitec-is-262e09\\IS262E09Ejercicio05\\src\\WebAppIS262E09\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manue\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\manue\\IS262E09Ejercicio05\\src\\ApplicationIS262E09\\ApplicationIS262E09.csproj": {
-              "projectPath": "C:\\Users\\manue\\IS262E09Ejercicio05\\src\\ApplicationIS262E09\\ApplicationIS262E09.csproj"
+            "C:\\Users\\manue\\unitec-is-262e09\\IS262E09Ejercicio05\\src\\ApplicationIS262E09\\ApplicationIS262E09.csproj": {
+              "projectPath": "C:\\Users\\manue\\unitec-is-262e09\\IS262E09Ejercicio05\\src\\ApplicationIS262E09\\ApplicationIS262E09.csproj"
             }
           }
         }
@@ -91,7 +91,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.104/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
