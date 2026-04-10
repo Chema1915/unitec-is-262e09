@@ -1,0 +1,27 @@
+@page 
+@using ApplicationIS262E09
+
+@{ 
+
+    double lado = 5.0;  
+    double perimetro = FiguraIS262E09.Perimetro(lado);  
+
+    double area = FiguraIS262E09.Area(lado);  
+
+    double areaRedondeada = Math.Round(area, 2);  
+
+} 
+
+<body style="background-color:gray;"> 
+
+</br> 
+
+<h1 style="text-align:center;color:white;">El Perimetro de un triangulo de @(lado)cm de lado es: @(perimetro)cm</h1> 
+
+</br> 
+
+<h1 style="text-align:center;color:white;">El Area de un triangulo de @(lado)cm de lado es: @(areaRedondeada)cm²</h1> 
+
+</body> 
+
+ 
