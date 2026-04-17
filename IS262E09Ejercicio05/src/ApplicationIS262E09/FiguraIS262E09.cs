@@ -11,9 +11,13 @@ public class FiguraIS262E09
     {
         return (Math.Sqrt(3) / 4) * Math.Pow(lado, 2);
     }
-   
-   public static double Volumen(double lado)
+   public static double Altura(double lado)
    {
-      return (Math.Sqrt(2) / 12) * Math.Pow(lado, 3);
+      return (Math.Sqrt(3) / 2) * lado;
    }
+   public static double Volumen(double area, double altura)
+   {
+      return (area * altura) / 3;
+   }  
+   
 }
