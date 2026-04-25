@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ConsoleAppIS262E09/1.0.0": {
+        "dependencies": {
+          "ApplicationIS262E09": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleAppIS262E09.dll": {}
+        }
+      },
+      "ApplicationIS262E09/1.0.0": {
+        "runtime": {
+          "ApplicationIS262E09.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppIS262E09/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApplicationIS262E09/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
